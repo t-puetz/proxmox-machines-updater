@@ -42,7 +42,7 @@ main()
 
 #### Server
 
-*Object that provides the smallest element for our foinal data structure: A list of server objects.
+*Object that provides the smallest element for our final data structure: A list of server objects.
 In ProxmoxCrawler we first start of using a primitive, native list or dictionary datatype which then
 later is transformed into server objects by Program.transform_server_info_to_proper_server_obj().*
 
