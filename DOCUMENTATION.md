@@ -191,7 +191,7 @@ added in the last step because not all their data can be extracted in the first 
 
 #### StateMachine
 
-*Has the abality to walk through the states which in our case are equal to all downtime subtasks to be done. It always nows the
+*Has the ability to walk through the states which in our case are equal to all downtime subtasks to be done. It always nows the
 current, the next and the previous state, can go back and forward, it can reset the states and it can tel whether it is at the end
 or the beginning of its state/task list. It can also detect whether or not the current state index is inside the state list range*
 
