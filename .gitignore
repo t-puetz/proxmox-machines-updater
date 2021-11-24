@@ -1,0 +1,5 @@
+downtime-server-list.txt
+found-servers.txt
+failures.log
+proxmox_machines_updater_run_main_logfolder_*
+automate/__pycache__
