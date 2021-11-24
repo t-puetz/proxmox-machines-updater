@@ -510,7 +510,7 @@ It also holds the program's name and semantic version number in self.version and
       self.downtime_automater.execute_linux_downtime_threaded(self.statemachine_host_map, self.serverlogger_host_map)
   ```
 
-  This final code pience in main.py (Where the Program class also resides) then runs our program:
+  This final code piece in main.py (Where the Program class also resides) then runs our program:
 
   ```
   def main():
